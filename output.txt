@@ -1,0 +1,34 @@
+n = 2, length = 10000
+method         :      min,   median,      max
+pieters        :   0.0021,   0.0021,   0.0025
+cjerdonek      :   0.0015,   0.0015,   0.0027
+weijiang       :   0.0033,   0.0033,   0.0035
+pylang         :   0.0024,   0.0025,   0.0035
+n = 2, length = 100000
+method         :      min,   median,      max
+pieters        :   0.0261,   0.0265,   0.0334
+cjerdonek      :   0.0187,   0.0193,   0.0245
+weijiang       :   0.0371,   0.0377,   0.0449
+pylang         :   0.0283,   0.0298,   0.0371
+n = 2, length = 1000000
+method         :      min,   median,      max
+pieters        :   0.2647,   0.2819,   0.3245
+cjerdonek      :   0.1960,   0.2045,   0.2319
+weijiang       :   0.3788,   0.3873,   0.4484
+pylang         :   0.3031,   0.3142,   0.3966
+n = 10, length = 10000
+method         :      min,   median,      max
+pieters        :   0.0077,   0.0081,   0.0111
+cjerdonek      :   0.0060,   0.0066,   0.0079
+pylang         :   0.0091,   0.0101,   0.0119
+n = 10, length = 100000
+method         :      min,   median,      max
+pieters        :   0.0945,   0.1020,   0.1311
+cjerdonek      :   0.0788,   0.0816,   0.1036
+pylang         :   0.1075,   0.1140,   0.1730
+n = 10, length = 1000000
+method         :      min,   median,      max
+pieters        :   0.9174,   0.9359,   1.0747
+cjerdonek      :   0.7544,   0.7948,   0.9558
+pylang         :   1.0451,   1.0543,   1.1179
+
